@@ -30,7 +30,9 @@ Note: You may need to unblock the executable: Right click the exe -> Properties,
 Contains bugs: An educational project only    
 Can be set to save very many images in the build direction. Use "Save image" option with caution.
 
+
 ### References
 "Busy" animation generated at http://www.chimply.com/Generator
+
 "DNA" icon made by Freepik from www.flaticon.com 
 
