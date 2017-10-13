@@ -32,6 +32,5 @@ Can be set to save very many images in the build direction. Use "Save image" opt
 
 ### References
 "Busy" animation generated at http://www.chimply.com/Generator
-
 "DNA" icon made by Freepik from www.flaticon.com 
 
