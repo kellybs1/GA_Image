@@ -1,9 +1,0 @@
-E:\BIT\y3\ads\kellybs1\GA_Image_kellybs1\GA_Image_kellybs1\bin\Debug\GA_kellybs1.exe.config
-E:\BIT\y3\ads\kellybs1\GA_Image_kellybs1\GA_Image_kellybs1\bin\Debug\GA_kellybs1.exe
-E:\BIT\y3\ads\kellybs1\GA_Image_kellybs1\GA_Image_kellybs1\bin\Debug\GA_kellybs1.pdb
-E:\BIT\y3\ads\kellybs1\GA_Image_kellybs1\GA_Image_kellybs1\obj\Debug\GA_Image_kellybs1.csprojResolveAssemblyReference.cache
-E:\BIT\y3\ads\kellybs1\GA_Image_kellybs1\GA_Image_kellybs1\obj\Debug\GA_Image_kellybs1.Form1.resources
-E:\BIT\y3\ads\kellybs1\GA_Image_kellybs1\GA_Image_kellybs1\obj\Debug\GA_kellybs1.Properties.Resources.resources
-E:\BIT\y3\ads\kellybs1\GA_Image_kellybs1\GA_Image_kellybs1\obj\Debug\GA_Image_kellybs1.csproj.GenerateResource.Cache
-E:\BIT\y3\ads\kellybs1\GA_Image_kellybs1\GA_Image_kellybs1\obj\Debug\GA_kellybs1.exe
-E:\BIT\y3\ads\kellybs1\GA_Image_kellybs1\GA_Image_kellybs1\obj\Debug\GA_kellybs1.pdb
