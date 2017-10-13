@@ -7,7 +7,7 @@ Written in C# using Visual Studio 2015.
 
 ### Build
 
-<a href="/Build/GA_Image.exe">/Builds/GA_Image.exe</a>
+<a href="https://github.com/kellybs1/GA_Image/raw/master/Build/GA_Image.exe">/Build/GA_Image.exe</a>
 
 Note: You may need to unblock the executable: Right click the exe -> Properties, and in the bottom section click the Unblock checkbox and then click OK.
 
@@ -30,7 +30,7 @@ Note: You may need to unblock the executable: Right click the exe -> Properties,
 Contains bugs: An educational project only    
 Can be set to save very many images in the build direction. Use "Save image" option with caution.
 
-###References
+### References
 "Busy" animation generated at http://www.chimply.com/Generator
 "DNA" icon made by Freepik from www.flaticon.com 
 
