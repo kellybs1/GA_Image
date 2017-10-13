@@ -22,7 +22,7 @@ Note: You may need to unblock the executable: Right click the exe -> Properties,
 
 ### Screenshots
 
-<img src="screenshot.png" width="640"/>
+<img src="screenshot.png" width="480"/>
 
 
 
