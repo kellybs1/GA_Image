@@ -22,7 +22,7 @@ namespace GA_Image
         protected int nKeep;
         protected Random rand;
         protected double[] cumulativeProbs;
-        protected int[][] breedingPairs; 
+        protected int[][] breedingPairs; //indexes of pairs to bre bred together
         protected int nPairs;
 
         public GAEngine(int inPopulation, double inPrKeep, double inPrMutate)
@@ -47,14 +47,14 @@ namespace GA_Image
 
         //virtual methods
 
-        //select the next breeding pair
+        //selects the indexes of the breeding pairs for the current generation
         public virtual void Selection()
         {
             for (int i = 0; i < nPairs; i++)
             {
                 int parent1Index = 0;
                 int parent2Index = 0;
-                //make sure parents are different
+                //get random indexes for breeding pairs
                 do
                 {
                     //generade random doubles
@@ -66,7 +66,7 @@ namespace GA_Image
 
                 } while (parent1Index == parent2Index); //make sure parents are different
 
-                //assign the pairs together
+                //assign the pair
                 int[] thisPair = { parent1Index, parent2Index };
                 breedingPairs[i] = thisPair; //put them in the breeding pairs
             }

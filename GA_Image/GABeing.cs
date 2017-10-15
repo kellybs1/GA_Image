@@ -16,7 +16,6 @@ namespace GA_Image
     {
         public int Cost {get; set;}
         public abstract int CompareTo(object obj);
-
         public abstract void ComputeFitness();
     }
 
@@ -40,6 +39,8 @@ namespace GA_Image
             target = inTarget;
             ComputeFitness();
         }
+
+        //sorts objects by their cost, lower costs sort first
         public override int CompareTo(object obj)
         {
             //check type and cast if type is correct
@@ -56,6 +57,7 @@ namespace GA_Image
                 return 1; //otherwise it doesn't matter
         }
 
+        //compute the "fitness" of a chromosomes by comparing the integer RGB values of the current pixel
         public override void ComputeFitness()
         {
             Cost = 0; //reset

@@ -3,11 +3,21 @@ using System.Drawing;
 
 
 
+/*
+ * Class: FileManager
+ * Description: Static class to manage saving given bitmap to a uniqie file
+ * Author: Brendan Kelly
+ * Date: 10/10/2017
+ */
+
+
+
 namespace GA_Image
 {
  
     public static class FileManager
     {
+        //saves an image to a file in the build directory
         public static void SaveImage(Bitmap image, int generation, int cost)
         {
             String fileName = generateFileName(generation, cost);

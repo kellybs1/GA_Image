@@ -160,9 +160,7 @@ namespace GA_Image
                 buttonStop.Enabled = true;
             }
             else
-            {
                 MessageBox.Show("Image must be square 8,16,32,64,128,256,512px, but is " + userImage.Width + "x" + userImage.Height);
-            }
         }
 
         //test draw button click handler
